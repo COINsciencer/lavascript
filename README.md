@@ -1,7 +1,17 @@
 
-使用教程
+使用教程 图文版本看这里：
 
 https://www.yuque.com/fendoudexiaoxiongmao/pgmrrh/ib0wg1i7b608e2om?singleDoc
+
+更多最新项目免费脚本关注 
+
+币圈科学家旺仔
+
+youtube
+https://www.youtube.com/channel/UCX3J_A7EG437G8X857fBZfQ
+
+twitter
+https://twitter.com/howbuybtc
 
 LAVA刷RPC教程
 注册lava：https://points.lavanet.xyz/profile
