@@ -1,7 +1,4 @@
 
-使用教程 图文版本看这里：
-
-https://www.yuque.com/fendoudexiaoxiongmao/pgmrrh/ib0wg1i7b608e2om?singleDoc
 
 更多最新项目免费脚本关注 
 
