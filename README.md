@@ -5,8 +5,8 @@ https://www.yuque.com/fendoudexiaoxiongmao/pgmrrh/ib0wg1i7b608e2om?singleDoc
 
 LAVA刷RPC教程
 注册lava：https://points.lavanet.xyz/profile
-注册地址：https://points.lavanet.xyz/register?code=DEAT3
-注册码：DEAT3
+注册地址： https://points.lavanet.xyz/register?code=1WHAW
+注册码：1WHAW
 安装Python3环境
 Windows系统：python安装教程（Windows系统，python3.10.1版本为例，适用所有python3.X版本）_python3.10.1下载-CSDN博客
 Linux系统：在Linux上安装Python 3 — The Hitchhiker’s Guide to Python
