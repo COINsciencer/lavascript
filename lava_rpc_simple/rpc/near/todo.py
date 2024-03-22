@@ -1,0 +1,3 @@
+"""
+near only support javascript
+"""
